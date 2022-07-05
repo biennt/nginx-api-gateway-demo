@@ -4,8 +4,6 @@
 
 This demo uses Terraform to automate the setup of an NGINX Plus (and NGINX App Protect WAF) API gateway pseudo-production environment that includes a mock API backend database.
 
-A PDF containing accompanying slides for this demo can also be found under the name of [`Deploy and Secure Your API Gateway with NGINX.pdf`](Deploy%20and%20Secure%20Your%20API%20Gateway%20with%20NGINX.pdf).
-
 ## Requirements
 
 ### Terraform
